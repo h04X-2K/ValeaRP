@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SaltyServer": {
+      "commandName": "Executable",
+      "executablePath": "D:\\GitLab space\\valearp-selled\\Server\\altv-server.exe",
+      "workingDirectory": "D:\\GitLab space\\valearp-selled\\Server"
+    }
+  }
+}

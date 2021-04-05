@@ -1,0 +1,380 @@
+[
+    [{
+            "group": "Allgemein:",
+            "name": "Benachrichtigungssystem",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Charakterauswahl",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Charaktereditor",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Datenbankanbindung",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Echtzeitsynchronisation",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Login",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Spawnauswahl",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Türsystem",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Wettersynchronisation",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Teleports (Ein/Ausgänge)",
+            "status": 5
+        },
+        {
+            "group": "Allgemein:",
+            "name": "Voice|System",
+            "status": 0
+        }
+    ],
+    [{
+            "group": "Spieler:",
+            "name": "Animationen",
+            "status": 5
+        },
+        {
+            "group": "Spieler:",
+            "name": "Friseur",
+            "status": 5
+        },
+        {
+            "group": "Spieler:",
+            "name": "HUD",
+            "status": 5
+        },
+        {
+            "group": "Spieler:",
+            "name": "Inventarsystem",
+            "status": 5
+        },
+        {
+            "group": "Spieler:",
+            "name": "Interaktionsmenü",
+            "status": 5
+        },
+        {
+            "group": "Spieler:",
+            "name": "Schönheitschirurg",
+            "status": 0
+        }
+    ],
+    [{
+            "group": "Fahrzeug:",
+            "name": "Fahrzeugsystem",
+            "status": 5
+        },
+        {
+            "group": "Fahrzeug:",
+            "name": "Kofferraumsystem",
+            "status": 5
+        },
+        {
+            "group": "Fahrzeug:",
+            "name": "Handschuhfach",
+            "status": 5
+        },
+        {
+            "group": "Fahrzeug:",
+            "name": "Fahrzeugshop",
+            "status": 5
+        },
+        {
+            "group": "Fahrzeug:",
+            "name": "Garagensystem",
+            "status": 5
+        },
+        {
+            "group": "Fahrzeug:",
+            "name": "Tachometer",
+            "status": 5
+        },
+        {
+            "group": "Fahrzeug:",
+            "name": "Tankstellensystem",
+            "status": 5
+        },
+        {
+            "group": "Fahrzeug:",
+            "name": "Tuningsystem",
+            "status": 4.95
+        },
+        {
+            "group": "Fahrzeug:",
+            "name": "Waschanlagen",
+            "status": 0
+        },
+        {
+            "group": "Fahrzeug:",
+            "name": "Zulassungsstelle",
+            "status": 5
+        }
+    ],
+    [{
+            "group": "Hotelsystem:",
+            "name": "Grundgerüst",
+            "status": 5
+        },
+        {
+            "group": "Hotelsystem:",
+            "name": "Lagerraum",
+            "status": 5
+        }
+    ],
+    [{
+            "group": "Haussystem:",
+            "name": "Grundgerüst",
+            "status": 5
+        },
+        {
+            "group": "Haussystem:",
+            "name": "Inventar",
+            "status": 5
+        },
+        {
+            "group": "Haussystem:",
+            "name": "Upgrades",
+            "status": 5
+        },
+        {
+            "group": "Haussystem:",
+            "name": "Tresor",
+            "status": 5
+        },
+        {
+            "group": "Haussystem:",
+            "name": "Einbruchssystem",
+            "status": 5
+        }
+    ],
+    [{
+            "group": "Wirtschaft:",
+            "name": "Banksystem",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Bankautomaten",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Gewerbesystem (v1)",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Casino",
+            "status": 0
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Shops",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Jobsystem",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Minijob: Elektrolieferant",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Minijob: Pilot",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Minijob: Müllmann",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Minijob: Busfahrer",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Farmsystem",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Kleiderladen",
+            "status": 5
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Tattoo|Laden",
+            "status": 0
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Waffensystem",
+            "status": 3.75
+        },
+        {
+            "group": "Wirtschaft:",
+            "name": "Wahlsystem",
+            "status": 0
+        }
+    ],
+    [{
+            "group": "Fraktionen:",
+            "name": "Grundgerüst",
+            "status": 5
+        },
+        {
+            "group": "Fraktionen:",
+            "name": "Rechnungssystem",
+            "status": 5
+        },
+        {
+            "group": "Fraktionen:",
+            "name": "ACLS",
+            "status": 4.95
+        },
+        {
+            "group": "Fraktionen:",
+            "name": "L.S.P.D",
+            "status": 4.75
+        },
+        {
+            "group": "Fraktionen:",
+            "name": "L.S.F.D",
+            "status": 4.75
+        },
+        {
+            "group": "Fraktionen:",
+            "name": "D.o.J",
+            "status": 5
+        },
+        {
+            "group": "Fraktionen:",
+            "name": "Fahrschule",
+            "status": 5
+        }
+    ],
+    [{
+            "group": "Tablet:",
+            "name": "Grundgerüst",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Banking",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Einstellungen",
+            "status": 3
+        },
+        {
+            "group": "Tablet:",
+            "name": "EMail",
+            "status": 3
+        },
+        {
+            "group": "Tablet:",
+            "name": "Events",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Fahrzeuge",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Tutorial / Erfolge",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Internet",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Internet|AppStore",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Internet|FShop",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Internet|Maps",
+            "status": 0.5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Lifeinvader",
+            "status": 3
+        },
+        {
+            "group": "Tablet:",
+            "name": "News",
+            "status": 3
+        },
+        {
+            "group": "Tablet:",
+            "name": "Notizen",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Unternehmensverwaltung",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Fraktionsverwaltung",
+            "status": 5
+        },
+        {
+            "group": "Tablet:",
+            "name": "Wetter",
+            "status": 3
+        },
+        {
+            "group": "Tablet:",
+            "name": "Sell&Buy",
+            "status": 3
+        }
+    ]
+]

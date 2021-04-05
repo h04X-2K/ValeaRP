@@ -1,0 +1,413 @@
+[{
+        "date": "12.01.2020",
+        "messages": [
+            "Diverse Fehler behoben",
+            "neue LSPD Fahrzeuge angefertigt",
+            "ACLS Fraktion fertig gestellt",
+            "Tuningsystem fertig gestellt",
+            "neue LSPD Kleidung eingebunden"
+        ]
+    },
+    {
+        "date": "06.01.2020",
+        "messages": [
+            "Einbruchssystem fehlende Funktionen implementiert",
+            "Einwohnermeldeamt implementiert",
+            "Haussystem: Haus verkaufen",
+            "Änderungen im Addressen System",
+            "Personal- und Dienstausweise implementiert",
+            "Animationssystem eingebunden :)"
+        ]
+    },
+    {
+        "date": "29.12.2019",
+        "messages": [
+            "Todes- & Wiederbelebungssystem implementiert",
+            "Fehlerbehebung im Haussystem"
+        ]
+    },
+    {
+        "date": "16.12.2019 - 19.12.2019",
+        "messages": [
+            "Weitere Adminfunktionen implementiert",
+            "Pillbox & Sandy Krankenhaus eingebunden",
+            "Diverse Fixes"
+        ]
+    },
+    {
+        "date": "14.12.2019 - 15.12.2019",
+        "messages": [
+            "Fehler im Haussystem behoben",
+            "Fehler mit Spieler-Health behoben",
+            "Hotels können nun unterschiedliche Innenräume haben",
+            "Haussystem: Verwaltung implementiert",
+            "Haussystem: Tresor implementiert",
+            "Adminsystem implementiert"
+        ]
+    },
+    {
+        "date": "15.11.2019 - 11.12.2019",
+        "messages": [
+            "Motivationspause",
+            "Fahrzeugsystem: Fraktionsfehler behoben",
+            "Hotelsystem implementiert",
+            "Haussystem implementiert (ToDo: Verwaltung)",
+            "Deathscreen implementiert",
+            "Admin Commands"
+        ]
+    },
+    {
+        "date": "14.11.2019",
+        "messages": [
+            "Minijobsystem: Marker Bugfix",
+            "Minijobsystem: Blip Bugfix",
+            "Minijob: Busfahrer implementiert",
+            "Minijob: weitere Müllmann Routen eingefügt"
+        ]
+    },
+    {
+        "date": "12.11 - 13.11.2019",
+        "messages": [
+            "Minijob: Pilot Bugfixes",
+            "Minijob: Elektrolieferant Bugfixes",
+            "Minijob: Müllmann implementiert (need testing)"
+        ]
+    },
+    {
+        "date": "11.11.2019",
+        "messages": [
+            "Tablet: Erfolge-App implementiert",
+            "Minijob: Elektrolieferant implementiert",
+            "Minijob: Pilot implementiert (good old SA:MP feelings)"
+        ]
+    },
+    {
+        "date": "08.11.2019",
+        "messages": [
+            "Justiz: Kennzeichenabfrage",
+            "Justiz: Waffenscheine",
+            "Justiz: Kontoaktivitäten"
+        ]
+    },
+    {
+        "date": "07.11.2019",
+        "messages": [
+            "Justiz angefangen",
+            "Justiz: Tablet App implementiert",
+            "Justiz: Personenabfrage",
+            "Justiz: Lizenzabfrage"
+        ]
+    },
+    {
+        "date": "06.11.2019",
+        "messages": [
+            "LSPD: Helicam implementiert",
+            "LSPD: Lizenzabfrage refactort",
+            "LSPD: Lizenzabfrage erweitert",
+            "Fraktion: Fahrschule implementiert",
+            "Lizenzsystem fertiggestellt"
+        ]
+    },
+    {
+        "date": "05.11.2019",
+        "messages": [
+            "Waffensystem: Aufsatzfehler behoben",
+            "LSPD: Tablet App implementiert",
+            "LSPD: Personenabfrage implementiert",
+            "LSPD: Kennzeichenabfrage implementiert",
+            "LSPD: Fahrzeugübersicht implementiert",
+            "Lizenzsystem: Grundgerüst implementiert",
+            "LSPD: Lizenzabfrage implementiert"
+        ]
+    },
+    {
+        "date": "04.11.2019",
+        "messages": [
+            "Interaktionssystem (Spieler) erweitert",
+            "Spieler: Handschellen an-/ablegen",
+            "Spieler: Seil an-/ablegen",
+            "Spieler: Spieler durchsuchen"
+        ]
+    },
+    {
+        "date": "03.11.2019",
+        "messages": [
+            "Interaktionsmenü überarbeitet",
+            "Diverse Abfragen erweitert",
+            "Fahrzeugsystem: Kofferraumsystem implementiert",
+            "Fahrzeugsystem: Handschuhfach implementiert",
+            "Fahrzeugsystem: Zulassungsstelle implementiert",
+            "Türsystem implementiert",
+            "Serverabsturz behoben"
+        ]
+    },
+    {
+        "date": "02.11.2019",
+        "messages": [
+            "Fraktionssystem: weitere Logs implementiert",
+            "Gewerbesystem: Rechnungssystem fertiggestellt",
+            "Gewerbesystem: Bank fertiggestellt",
+            "Fraktionssystem: Spind implementiert"
+        ]
+    },
+    {
+        "date": "01.11.2019",
+        "messages": [
+            "Fraktionssystem angefangen",
+            "Fraktionssystem: Mitglieder laden",
+            "Fraktionssystem: Fraktionen laden",
+            "Fraktionssystem: Bank implementiert",
+            "Fraktionssystem: Shops hinzugefügt",
+            "Fraktionssystem: ausführliche Logs hinzugefügt",
+            "Kleidungssystem: Undershirt Fehler behoben",
+            "Waffensystem: Attachment Fehler behoben",
+            "Fehler im Gewerbesystem behoben",
+            "Kleidungssystem ergänzt",
+            "Fraktionssystem: Verwaltungsapp implementiert",
+            "Fraktionssystem: Mitarbeiter einstellen",
+            "Fraktionssystem: Mitarbeiter verwalten",
+            "Fraktionssystem: Rangverwaltung",
+            "Fraktionssystem: Lohn Auszahlungen"
+        ]
+    },
+    {
+        "date": "31.10.2019",
+        "messages": [
+            "Gewerbesystem angefangen",
+            "Gewerbesystem (v1) fertiggestellt"
+        ]
+    },
+    {
+        "date": "30.10.2019",
+        "messages": [
+            "Innenräume (ohne Teleport) hinzugefügt"
+        ]
+    },
+    {
+        "date": "28.10.2019",
+        "messages": [
+            "Tabletsystem angefangen",
+            "Tabletsystem: Banking fertiggestellt",
+            "Tabletsystem: Events fertiggestellt",
+            "Tabletsystem: Notizen fertiggestellt",
+            "Tabletsystem: Fahrzeugapp fertiggestellt"
+        ]
+    },
+    {
+        "date": "27.10.2019",
+        "messages": [
+            "Kleiderladensystem angefangen",
+            "Kleiderladensystem fertiggestellt"
+        ]
+    },
+    {
+        "date": "24.10 - 26.10.2019",
+        "messages": [
+            "Call of Duty & Motivationsphase"
+        ]
+    },
+    {
+        "date": "23.10.2019",
+        "messages": [
+            "Tankstellensystem fertiggestellt",
+            "Waffensystem angefangen"
+        ]
+    },
+    {
+        "date": "22.10.2019",
+        "messages": [
+            "Jobsystem angefangen",
+            "Jobsystem implementiert",
+            "Tankstellensystem angefangen"
+        ]
+    },
+    {
+        "date": "20.10.2019",
+        "messages": [
+            "Shopsystem ergänzt: Items verkaufen",
+            "Farmsystem ergänzt & fertiggestellt"
+        ]
+    },
+    {
+        "date": "19.10.2019",
+        "messages": [
+            "Farmsystem implementiert"
+        ]
+    },
+    {
+        "date": "18.10.2019",
+        "messages": [
+            "Fahrzeugsystem: Tachometer / HUD implementiert",
+            "Fahrzeugsystem: Spritverbrauch & KM Stand implementiert",
+            "Farmsystem angefangen"
+        ]
+    },
+    {
+        "date": "17.10.2019",
+        "messages": [
+            "Fahrzeugshop fertiggestellt",
+            "Unbenutzte Fahrzeuge nach 48 Stunden einparken"
+        ]
+    },
+    {
+        "date": "16.10.2019",
+        "messages": [
+            "Fahrzeugshop angefangen"
+        ]
+    },
+    {
+        "date": "13.10.2019",
+        "messages": [
+            "Interaktionsmenü (Spieler): Gegenstand geben - implementiert",
+            "Fahrzeugsystem: Tuning laden",
+            "Fahrzeugsystem: Garagensystem implementiert"
+        ]
+    },
+    {
+        "date": "11.10.2019",
+        "messages": [
+            "Interaktionsmenü (Fahrzeug) implementiert (needs more testing)",
+            "Interaktionsmenü (Spieler) implementiert (needs more testing)",
+            "Fahrzeugsystem angefangen",
+            "Fahrzeugsystem: Fahrzeuge laden & speichern",
+            "Fahrzeugsystem: Auf/Abschließen implementiert",
+            "Fahrzeugsystem: Motor an/ausschalten implementiert",
+            "Friseursystem: Wangenröte hinzugefügt"
+        ]
+    },
+    {
+        "date": "10.10.2019",
+        "messages": [
+            "Friseursystem angefangen",
+            "Friseursystem implementiert",
+            "Markermanager implementiert",
+            "Permissionsystem implementiert",
+            "eigene Lebensanzeige implementiert"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "messages": [
+            "Bugfix im Inventarsystem",
+            "Shopsystem implementiert"
+        ]
+    },
+    {
+        "date": "07.10.2019",
+        "messages": [
+            "Login: weitere Abfragen implementiert",
+            "Kicksystem implementiert"
+        ]
+    },
+    {
+        "date": "06.10.2019",
+        "messages": [
+            "360 Männerschuhe eingefügt"
+        ]
+    },
+    {
+        "date": "05.10.2019",
+        "messages": [
+            "Shopsystem angefangen"
+        ]
+    },
+    {
+        "date": "04.10.2019",
+        "messages": [
+            "Server Teleports fertiggestellt (Interior Ein- / Ausgänge)",
+            "509 Männerhosen eingefügt"
+        ]
+    },
+    {
+        "date": "03.10.2019",
+        "messages": [
+            "Bankautomat (Web-Entwicklung) angefangen",
+            "Bankautomat fertiggestellt"
+        ]
+    },
+    {
+        "date": "02.10.2019",
+        "messages": [
+            "Bankschalter HUD fertiggestellt (Web)",
+            "Banksystem Server-Entwicklung angefangen",
+            "Edit: Banksystem fertiggestellt (keine ATMs sondern Bankschalter etc.)"
+        ]
+    },
+    {
+        "date": "01.10.2019",
+        "messages": [
+            "Ausweis beantragen fertiggestellt",
+            "KeyHandler implementiert",
+            "Banksystem (Webentwicklung) angefangen"
+        ]
+    },
+    {
+        "date": "30.09.2019",
+        "messages": [
+            "Kleidersystem angefangen",
+            "Inventarbasis fertiggestellt (Kleinigkeiten fehlen)",
+            "Inventar fertiggestellt",
+            "Kleidersystem ins Inventar integriert",
+            "Kleidersystem fertiggestellt"
+        ]
+    },
+    {
+        "date": "29.09.2019",
+        "messages": [
+            "Fehler im Inventar-UI behoben",
+            "Inventarsystem weitergeführt und erste Funktionen fertiggestellt",
+            "Landingpage fertiggestellt"
+        ]
+    },
+    {
+        "date": "28.09.2019",
+        "messages": [
+            "Inventarsystem (Serverentwicklung) angefangen",
+            "Webserver eingerichtet",
+            "Roadmap fertiggestellt"
+        ]
+    },
+    {
+        "date": "26.09.2019",
+        "messages": [
+            "Weitere Optimierungen am ersten, nicht veröffentlichten Feature.",
+            "103 Bankautomaten eingepflegt",
+            "Interne Strukturen abgeändert"
+        ]
+    },
+    {
+        "date": "25.09.2019",
+        "messages": [
+            "HUD Anzeige (Durst, Essen, Voice, Standort) implementiert",
+            "Notifications implementiert",
+            "Spieler Positionen werden regelmäßig gespeichert",
+            "Bannsystem implementiert",
+            "Echtzeitsystem implementiert",
+            "Erste Tests an einem neuen, nicht veröffentlichten Feature"
+        ]
+    },
+    {
+        "date": "24.09.2019",
+        "messages": [
+            "Spawnsystem grundlegend implementiert",
+            "BlipManager implementiert",
+            "Hunger, Durst, Leben und Rüstung wird gespeichert",
+            "Hunger und Durst werden regelmäßig reduziert",
+            "Debug Commands implementiert"
+        ]
+    },
+    {
+        "date": "23.09.2019",
+        "messages": [
+            "Umstieg auf alt:V",
+            "Datenbankstruktur implementiert",
+            "Registersystem implementiert",
+            "Loginsystem implementiert",
+            "Charakter können erstellt werden",
+            "Charakter können deaktiviert werden",
+            "Character Creator implementiert",
+            "Tote und lebendige Charaktere können 'previewt' werden",
+            "Whitelistsystem implementiert"
+        ]
+    }
+]

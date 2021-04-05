@@ -1,0 +1,128 @@
+[14:23:26] alt:V Server, build #1286, branch release
+[14:23:26] Starting alt:V Server on 0.0.0.0:22005
+[14:23:26] coreclr-module: version found: 2.1.11
+[14:23:26] coreclr-module: version found: 2.1.13
+[14:23:26] coreclr-module: version found: 2.1.6
+[14:23:26] coreclr-module: version found: 2.2.5
+[14:23:26] coreclr-module: version found: 3.0.0
+[14:23:26] coreclr-module: version found: 3.1.0
+[14:23:26] coreclr-module: version found: 3.1.1
+[14:23:26] coreclr-module: greatest version: 3.1.1
+[14:23:26] Loading resource chat
+[14:23:26] Loaded resource chat
+[14:23:26] Loading resource SaltyClient
+[14:23:27] Loaded resource SaltyClient
+[14:23:27] Loading resource roleplay
+[14:23:31] 1 Spieler wurden geladen.
+[14:23:31] 0 Charakter wurden geladen.
+[14:23:31] 1 Server-Clothes wurden geladen.
+[14:23:32] 0 Character-Clothes wurden geladen.
+[14:23:32] 0 Charakter-Skins wurden geladen.
+[14:23:32] 0 Character Bank Accounts wurden geladen.
+[14:23:32] 0 Charakter Positionen wurden geladen.
+[14:23:32] 0 Charakter Inventar-Items wurden geladen.
+[14:23:32] 0 Character-Licenses wurden geladen.
+[14:23:32] 0 Character-Permissions wurden geladen.
+[14:23:32] 0 Character-Minijob-Entrys wurden geladen.
+[14:23:32] 0 Character-Phone-Chats wurden geladen.
+[14:23:32] 0 Character-Phone-Chat-Messages wurden geladen.
+[14:23:32] 0 Character-Phone-Contacts wurden geladen.
+[14:23:32] 3 Server-Wanted-Einträge wurden geladen.
+[14:23:32] 0 Characters-Wanted-Einträge wurden geladen.
+[14:23:32] 6 Server-Blips wurden geladen.
+[14:23:32] 1 Server-Marker wurden geladen.
+[14:23:32] 51 Server-All-Vehicles wurden geladen.
+[14:23:32] 3 Server-Animationen wurden geladen.
+[14:23:32] 0 Server-ATMs wurden geladen.
+[14:23:32] 10 Server-Banken wurden geladen.
+[14:23:32] 0 Server-Bank-Papers geladen.
+[14:23:32] 2068 Server-Items wurden geladen.
+[14:23:32] 6 Server-Peds wurden geladen.
+[14:23:32] 1 Server-Clothes-Shops wurden geladen.
+[14:23:32] 1 Server-Clothes-Shop-Items wurden geladen.
+[14:23:32] 1 Server-Clothes-Storages wurden geladen.
+[14:23:32] 0 Server-Faction-Clothes wurden geladen.
+[14:23:32] 45 Server-Shops wurden geladen.
+[14:23:33] 2319 Server ShopItems wurden geladen.
+[14:23:33] 7 Server-Barbers wurden geladen.
+[14:23:33] 6 Server-Teleports wurden geladen.
+[14:23:33] 18 Server-Garagen wurden geladen.
+[14:23:33] 35 Server-Garagen Slots wurden geladen.
+[14:23:33] 0 All-Server-Vehicle-Mods wurden geladen.
+[14:23:33] 3 Server-Vehicle-Mods wurden geladen.
+[14:23:33] 3 Server-Vehicles wurden geladen.
+[14:23:33] 2 Server-Vehicle-Trunk-Items wurden geladen.
+[14:23:33] 5 Server-Vehicle-Shops wurden geladen.
+[14:23:33] 27 Server-Vehicle-ShopItems wurden geladen.
+[14:23:33] 11 Server-Farming-Spots wurden geladen.
+[14:23:33] 11 Server-Farming-Verarbeiter wurden geladen.
+[14:23:33] 9 Server-Jobs wurden geladen.
+[14:23:33] 1 Server-Licenses wurden geladen.
+[14:23:33] 8 Server-Tankstellen wurden geladen.
+[14:23:33] 94 Server-Tankstellen-Spots wurden geladen
+[14:23:33] 9 Server-Tablet-App-Datas wurden geladen.
+[14:23:33] 0 Character-Tablet-App Einträge wurden geladen.
+[14:23:33] 0 Character-Tablet-Tutorial Entrys wurden geladen.
+[14:23:33] 0 Server-Tablet-Events wurden geladen.
+[14:23:33] 0 Server-Tablet-Notes wurden geladen.
+[14:23:33] 0 Server-Companys wurden geladen.
+[14:23:33] 0 Server-Company-Member wurden geladen.
+[14:23:33] 5 Server-Factions wurden geladen.
+[14:23:33] 9 Server-Faction-Positions wurden geladen.
+[14:23:34] 111 Server-Faction-Ranks wurden geladen.
+[14:23:34] 0 Server-Faction-Member wurden geladen.
+[14:23:34] 0 Server-Faction-Storage-Items wurden geladen.
+[14:23:34] 0 Server-Doors wurden geladen.
+[14:23:34] 0 Server-Hotels wurden geladen.
+[14:23:34] 0 Server-Hotels-Apartments wurden geladen.
+[14:23:34] 0 Server-Hotels-Storage-Items wurden geladen.
+[14:23:34] 0 Server-Houses wurden geladen.
+[14:23:34] 1 Server-House-Interior wurden geladen.
+[14:23:34] 0 Server-House-Storage-Items wurden geladen.
+[14:23:34] 0 Server-House-Renter wurden geladen.
+[14:23:34] 3 Server-Minijobs-BusDriver-Routes wurden geladen.
+[14:23:34] 47 Server-Minijob-Busdriver-Spots wurden geladen.
+[14:23:34] 177 Server-Minijob-Garbage-Spots wurden geladen.
+[14:23:34] 0 Server-Fraktions-Logs wurden geladen.
+[14:23:34] 0 Server-Company-Logs wurden geladen.
+[14:23:34] 0 Character-Tattoos wurden geladen.
+[14:23:34] 919 Server-Tattoos wurden geladen.
+[14:23:34] 1 Server-Tattoo-Shops wurden geladen.
+[14:23:34] Lade Minijob: Elektrolieferant...
+[14:23:34] Minijob: Elektrolieferant geladen...
+[14:23:34] Lade Minijob: Pilot...
+[14:23:34] Minijob: Pilot geladen...
+[14:23:34] Lade Minijob: Müllmann...
+[14:23:34] Minijob: Müllmann geladen...
+[14:23:34] Lade Minijob: Busfahrer...
+[14:23:34] Minijob: Busfahrer geladen...
+[14:23:36] Loaded resource roleplay
+[14:23:36] Starting HTTP server on 0.0.0.0:22005
+[14:23:36] Console thread started (ThreadId: 16736)
+[14:23:36] Main thread started (ThreadId: 12872)
+[14:23:36] Colshape thread started (ThreadId: 25344)
+[14:23:36] EntityStreamer thread started (ThreadId: 26420)
+[14:23:36] Network thread started (ThreadId: 23344)
+[14:23:36] Server started
+[14:24:34] ValidateLoginCredentials benötigte 361ms
+[14:24:35] OnEntityTimer: Vehicle Foreach benötigte: 00:00:00.0021526
+[14:24:35] OnEntityTimer: Player Foreach benötigte: 00:00:00.0035055
+[14:25:06] ValidateLoginCredentials benötigte 234ms
+[14:25:11] Eingeloggt könig
+[14:25:11] 1 - CharacterSelectedSpawnPlace benötigte 519ms
+[14:25:25] [chat:cmd] könig: /spawnveh oppressor2
+[14:25:25][Warning] Event handler at chat:file:///D:/GitLab%20space/valearp-selled/Server/resources/chat/server.js:17 was too long 23ms
+[14:25:28] GetVehicleItems: 0 - 1
+[14:25:35] OnEntityTimer: Vehicle Foreach benötigte: 00:00:00.0002673
+[14:25:35] OnEntityTimer: Player Foreach benötigte: 00:00:00.0841698
+[14:26:35] OnEntityTimer: Vehicle Foreach benötigte: 00:00:00.0000970
+[14:26:35] OnEntityTimer: Player Foreach benötigte: 00:00:00.0650923
+[14:27:35] OnEntityTimer: Vehicle Foreach benötigte: 00:00:00.0000473
+[14:27:35] OnEntityTimer: Player Foreach benötigte: 00:00:00.0660751
+[14:27:47] ValidateLoginCredentials benötigte 226ms
+[14:27:51] Eingeloggt könig
+[14:27:51] 1 - CharacterSelectedSpawnPlace benötigte 52ms
+[14:28:01] Stopping resource chat
+[14:28:01] Stopped resource chat
+[14:28:01] Stopping resource roleplay
+[14:28:01] Server ist gestoppt.

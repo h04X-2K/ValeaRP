@@ -1,0 +1,297 @@
+@font-face {
+    font-family: 'PEL';
+    src: url('../utils/fonts/Poppins-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PM';
+    src: url('../utils/fonts/Poppins-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PT';
+    src: url('../utils/fonts/Poppins-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'OSR';
+    src: url('../utils/fonts/OpenSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'OSL';
+    src: url('../utils/fonts/OpenSans-Light.ttf') format('truetype');
+}
+
+body {
+    user-select: none;
+    background: none;
+    display: flex;
+    align-items: center;
+}
+
+#InventoryBox {
+    width: 600px;
+    padding-bottom: 20px;
+    position: absolute;
+    z-index: 100;
+    background: rgba(12, 12, 14, 0.95);
+    text-align: center;
+    border-radius: 4px;
+    /* box-shadow: 1px 4px 22px rgba(0, 0, 0, 0.8) !important; */
+    padding-bottom: 12px;
+    left: 120px;
+}
+
+#InventoryBox>div.headContainer {
+    width: 300px;
+    background: rgba(0, 0, 0, 0.15);
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+#InventoryBox>div.headContainer>span {
+    font-family: PEL;
+    color: #808080;
+    font-size: 14px;
+}
+
+#InventoryBox>div.headContainer.float-left {
+    border-top-left-radius: 4px;
+}
+
+#InventoryBox>div.headContainer.float-right {
+    border-top-right-radius: 4px;
+    border-left: 1px solid #00000075;
+}
+
+#InventoryBox>div.headContainer>span.active {
+    font-size: 15px;
+    color: #d2d2d2;
+}
+
+#InventoryBox>div.ContentArea {
+    height: 500px;
+    width: 565px;
+    margin-top: 50px;
+    position: relative;
+    left: 20px;
+    margin-bottom: 4px;
+}
+
+#InventoryBox>hr.cut {
+    margin-top: 1.45px;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #ff000063;
+    width: 600px;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group {
+    display: block;
+    float: left;
+    background: rgba(0, 0, 0, 0.2);
+    width: 100%;
+    height: 470px;
+    max-width: 100%;
+    max-height: 470px;
+    overflow-y: auto;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item {
+    float: left;
+    width: 170px;
+    border-radius: 4px;
+    margin-left: 14px;
+    max-height: 140px;
+    min-height: 140px;
+    margin-top: 12px;
+    background: #3131314a;
+    transition: all 0.3s ease-in-out;
+    padding: .8rem .5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item:hover {
+    transform: scale(1.03);
+    background: linear-gradient(25deg, rgba(25, 25, 25, 0.8) 0%, rgba(191, 191, 191, 0.18) 100%);
+    cursor: pointer;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item:hover>.btn {
+    color: #d2d2d2;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>img {
+    width: 48px !important;
+    margin-top: 4px;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>p {
+    color: #d2d2d2;
+    font-family: PEL;
+    font-size: 13px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+}
+
+#InventoryBox>hr {
+    margin-top: -1rem;
+    border-bottom: none;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to left, rgba(72, 131, 104, 0.8) 0%, rgba(45, 172, 113, 0.8) 100%);
+    border-image-slice: 1;
+    border-right: none;
+    border-left: none;
+}
+
+#InventoryBox>p.title {
+    color: #d2d2d2;
+    font-family: OSR;
+    font-size: 16px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+#InventoryBox>p.desc {
+    font-family: PEL;
+    color: #d2d2d2;
+    font-size: 14px;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>.btn {
+    font-size: 16px;
+    text-align: center;
+    color: #444444bd;
+    padding: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: 1px solid #00000038;
+    opacity: .9;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>.btn:nth-of-type(1):hover {
+    color: #d6d3d3;
+    background-color: rgba(37, 125, 57, 0.4);
+    border: 1px solid #00000038;
+    opacity: 1;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>.btn:nth-of-type(2):hover {
+    color: #d6d3d3;
+    background-color: rgba(167, 40, 40, 0.4);
+    border: 1px solid #00000038;
+    opacity: 1;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>.btn:nth-of-type(3):hover {
+    color: #d6d3d3;
+    background-color: rgba(40, 108, 167, 0.4);
+    border: 1px solid #00000038;
+    opacity: 1;
+}
+
+#SelectedItemAmount {
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.5);
+    font-family: PEL;
+    font-weight: bold;
+    color: #d2d2d2;
+    font-size: 0.85rem;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: 10px;
+    top: -4px;
+    position: relative;
+    outline: none;
+    border: 2px solid #2b2b2b;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #888;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #3e3e3e;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>div.progress {
+    margin-left: 8px;
+    width: 90%;
+    background-color: #252525d1 !important;
+    height: 3px;
+    margin-bottom: 5px;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>div.progress.hidden {
+    opacity: 0;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>div.progress>div.progress-bar.red {
+    background-color: #b72222 !important;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>div.progress>div.progress-bar.green {
+    background-color: #22b757 !important;
+}
+
+#InventoryBox>div.ContentArea>ul.list-group>li.list-group-item>div.progress>div.progress-bar.yellow {
+    background-color: #b7a522 !important;
+}
+
+.custom-menu {
+    display: none;
+    z-index: 1000;
+    position: absolute;
+    overflow: hidden;
+    border: 1px solid #0000006b;
+    white-space: nowrap;
+    font-family: PEL;
+    background: rgba(18, 18, 23, 1);
+    color: #d2d2d2;
+    border-radius: 2px;
+    padding: 0;
+}
+
+.custom-menu>li {
+    padding: 8px 12px;
+    cursor: pointer;
+    list-style-type: none;
+    transition: all .3s ease;
+    user-select: none;
+    border-bottom: 1px solid #0c0c0c;
+}
+
+.custom-menu>li:last-child {
+    border-bottom: none;
+}
+
+.custom-menu>li:hover {
+    background-color: #2b2b2b40;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

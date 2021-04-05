@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SaltyServer/1.0.0": {
+        "dependencies": {
+          "AltV.Net": "1.38.4",
+          "AltV.Net.Async": "1.38.4",
+          "Newtonsoft.Json": "12.0.3",
+          "SaltyShared": "1.0.0"
+        },
+        "runtime": {
+          "SaltyServer.dll": {}
+        }
+      },
+      "AltV.Net/1.38.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/AltV.Net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AltV.Net.Async/1.38.4": {
+        "dependencies": {
+          "AltV.Net": "1.38.4",
+          "System.Threading.Channels": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AltV.Net.Async.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.Threading.Channels/4.7.0": {},
+      "SaltyShared/1.0.0": {
+        "runtime": {
+          "SaltyShared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaltyServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AltV.Net/1.38.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jXc4948BqAB0LdztOwTUzBCsaNPfOEU+cbDbqQqHpr8t9ETLBlsMNlGrKUOw170Mviw7WdbOhov4sFUpwGsnSA==",
+      "path": "altv.net/1.38.4",
+      "hashPath": "altv.net.1.38.4.nupkg.sha512"
+    },
+    "AltV.Net.Async/1.38.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G+y2XPdT8+aTbFfTb/XFY6Fn990zAZndc5ZSM7nXNezu/swOkOKwA9qPndy1IwPvbF11TVczoEJSX78IxvjQ+g==",
+      "path": "altv.net.async/1.38.4",
+      "hashPath": "altv.net.async.1.38.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.Threading.Channels/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gdOOXBhtt2UpTxYJm1DRmoqNfYg5ypvhzhVt0vxKhzxXFjS81r8yIOSFsJYLRa1Jc14GBAqCnjxJstO3zBN7gg==",
+      "path": "system.threading.channels/4.7.0",
+      "hashPath": "system.threading.channels.4.7.0.nupkg.sha512"
+    },
+    "SaltyShared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
